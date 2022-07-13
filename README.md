@@ -23,6 +23,5 @@ Educadora e Históriadora pela UFRPE (Universidade Federal Rural de Pernambuco),
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rayzagb&repo=devweekgit.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contatos
-
-![Gmail Badge](mailto:rayzabazante@gmail.com)
+![Gmail Badge](mailto:santos.paulo.rf@gmail.com)
 [<img src="https://img.shields.io/badge/-RayzaBazante-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/rayza-bazante/" style="max-width: 100%;">](https://www.linkedin.com/in/rayza-bazante-643733141/)
