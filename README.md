@@ -28,6 +28,6 @@ Educadora e Históriadora pela UFRPE (Universidade Federal Rural de Pernambuco),
 
 
 
-![GMAIL](https://img.shields.io/badge/Gmail-rayzabazante@gmailcom?style=for-the-badge&logo=gmail&logoColor=white)
+[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' style='max-width:10 0%;'>](rayzabazante@gmail.com)
 ![WHATSAPP](https://img.shields.io/badge/WhatsApp-81996718550?style=for-the-badge&logo=whatsapp&logoColor=white)
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/rayza-bazante-643733141)
